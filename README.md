@@ -1,8 +1,7 @@
 <h1 align="center">Hey, I'm Pranay!</h1>
-<h3 align="center">A full stack developer that graduated from the University of Georgia</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
+I'm a full stack developer that graduated from the University of Georgia with a Bacheler's in Computer Science. Some technologies I enjoy working with include JavaScript, Java, Python, and MongoDB.
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
