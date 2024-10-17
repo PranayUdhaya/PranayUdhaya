@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Pranay!</h1>
+<h1 align="center">Hey,  I'm Pranay!</h1>
 
 <p align="left">
 I'm a full stack developer that graduated from the University of Georgia with a Bacheler's in Computer Science. Some technologies I enjoy working with include JavaScript, Java, Python, and MongoDB.
